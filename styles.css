@@ -22,7 +22,7 @@ video {
 	min-width: 190px;
 	min-height: 190px;
 	z-index: 99;
-	filter: drop-shadow(152px 162px 62px rgba(41, 44, 46, 0.01)) drop-shadow(97px 103px 57px rgba(41, 44, 46, 0.04)) drop-shadow(55px 58px 48px rgba(41, 44, 46, 0.14)) drop-shadow(24px 26px 36px rgba(41, 44, 46, 0.24)) drop-shadow(6px 6px 20px rgba(41, 44, 46, 0.27)) drop-shadow(0px 0px 0px rgba(41, 44, 46, 0.28));
+	box-shadow: 152px 162px 62px rgba(41, 44, 46, 0.01), 97px 103px 57px rgba(41, 44, 46, 0.04), 55px 58px 48px rgba(41, 44, 46, 0.14), 24px 26px 36px rgba(41, 44, 46, 0.24), 6px 6px 20px rgba(41, 44, 46, 0.27), 0px 0px 0px rgba(41, 44, 46, 0.28);
 }
 
 h2 {
